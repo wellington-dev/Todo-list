@@ -31,6 +31,7 @@ $ npm run dev
 
 ## 🚀 Tecnologias
 
+
 - [TypeScript](https://typescriptlang.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [Vite](https://github.com/axios/axios)
