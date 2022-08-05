@@ -12,6 +12,8 @@
 
 Esse projeto é uma aplicação que exibe os dados descritos pelo usuário mostrando tarefas que ira fazer.
 
+Para ver o projeto, clique aqui:<a href="https://todo-l1ist.netlify.app/"> Todo-List</a>
+
 ## 👷 Rodando o projeto
 
 
